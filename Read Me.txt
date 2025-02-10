@@ -1,0 +1,1 @@
+The solution is in Corteva_solution.ipynb file with the marking and how to execute it.
